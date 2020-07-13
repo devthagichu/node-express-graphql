@@ -1,0 +1,5 @@
+.env
+database-data/
+db/
+node_modules/
+knexfile.js
